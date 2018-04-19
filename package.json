@@ -1,0 +1,28 @@
+{
+  "name": "@nks/contextvars",
+  "version": "0.1.0",
+  "description": "rspec inspired context variables for Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahsilas/contextvars.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Noah Silas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahsilas/contextvars/issues"
+  },
+  "homepage": "https://github.com/noahsilas/contextvars#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "peerDependencies": {
+    "jest": "^22.0.0"
+  }
+}
